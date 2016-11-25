@@ -1,4 +1,4 @@
-# Awesome Swift
+# Awesome Vapor
  
 <!-- 
 
@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-1-orange.svg) | November 24, 2016
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-pink.svg)]() | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-12-orange.svg) | November 25, 2016
 
 ### Contributing
 
@@ -19,32 +19,33 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
-  - [Database](#database-guides)
   - [Style Guides](#style-guides)
   - [Video](#video-guides)
+    - [Database](#database-guides)
   - [Written](#written-guides)
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
   - [Vim](#vim)
 - [Benchmark](#benchmark)
-- [Demo Apps](#demo-apps)
+- [Opensource Vapor projects](#vapor-projects)
 - [Misc](#misc)
 - [Libs](#libs)
   - [Database Providers](#db-providers)
 
 ## Guides
-*An awesome list of Swift related guides.* 
+*An awesome list of Vapor related guides.* 
 * [Vapor University](http://vapor.university/) - Official guides provided by Vapor.
-
-### Database
-[back to top](#readme) 
-
 
 ### Style Guides
 [back to top](#readme) 
 
 
 ### Video
+[back to top](#readme) 
+
+* [CRUD Database operations](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options) - Ray Wenderlich's screencast
+
+#### Database
 [back to top](#readme) 
 
 
@@ -58,23 +59,33 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Emacs
 [back to top](#readme) 
 
+* [swift-mode](https://github.com/swift-emacs/swift-mode) - Emacs Swift support, including partial flycheck error support.
 
 ### Vim
 [back to top](#readme) 
 
+* [swift-vim](https://github.com/keith/swift.vim) - play Swift with vim editor.
 
 ## Benchmark
 
+* [Benchmarks for the Top Server-Side Swift Frameworks vs. Node.js](https://medium.com/@rymcol/benchmarks-for-the-top-server-side-swift-frameworks-vs-node-js-24460cfe0beb#.makgstrkk) - Can Server-Side Swift beat Node.js?
+* [Linux (Ubuntu) Benchmarks for Server Side Swift vs Node.js](https://medium.com/@rymcol/linux-ubuntu-benchmarks-for-server-side-swift-vs-node-js-db52b9f8270b#.tqb1kresn) - Getting benchmarks on Linux, so here you go!
+* [Server Side Swift vs. The Other Guys — 1: Input](https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-1-input-ec48d7be37b7#.w932nf7xp) - Input benchmark
+* [Server Side Swift vs. The Other Guys — 2: Speed](https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-2-speed-ca65b2f79505#.uk5s8jbui) - Speed benchmark
+* [Vapor vs. Kitura](https://medium.com/@qutheory/vapor-vs-kitura-benchmark-8253fe4a3881#.z27088ets) - Comparasion Vapor&Kitura
 
-## Demo Apps
+## Opensource Vapor projects
 *Check out apps on these projects:* 
+* [Karma API](https://github.com/kdawgwilk/KarmaAPI) - Karma tracking system
+* [Titan API](https://github.com/Tempo-Titans/titan-api) - Baseball club informational system
 
 ## Misc
-*Miscellaneous Swift related projects* 
+*Miscellaneous Vapor related projects* 
 
 ## Libs
-*Here you can find a list of snippets and libs for your Swift projects.* 
+*Here you can find a list of snippets and libs for your Vapor projects.* 
+* [Vapor APNS](https://github.com/matthijs2704/vapor-apns) - Swift library that allows you to send Apple Push Notifications using HTTP/2 protocol in Linux & macOS. It has support for the brand-new Token Based Authentication but if you need it, the traditional certificate authentication method is ready for you to use as well. Choose whatever you like!
 
 ### Database Providers
-*Libs for AI based projects (Machine Learning, Neural Networks etc).* [back to top](#readme) 
+*Database Provides available for Vapor* [back to top](#readme) 
 
