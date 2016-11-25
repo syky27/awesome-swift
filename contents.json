@@ -44,8 +44,8 @@
     "parent": "libs",
     "description": "Libs for AI based projects (Machine Learning, Neural Networks etc)."
   }, {
-    "title": "Demo Apps",
-    "id": "demo-apps",
+    "title": "Opensource Vapor projects",
+    "id": "vapor-projects",
     "description": "Check out apps on these projects:"
   }, {
     "title": "Misc",
@@ -81,5 +81,40 @@
     "category": "vim",
     "description": "play Swift with vim editor.",
     "homepage": "https://github.com/keith/swift.vim"
+  }, {
+    "title": "Titan API",
+    "category": "vapor-projects",
+    "description": "Baseball club informational system",
+    "homepage": "https://github.com/Tempo-Titans/titan-api"
+  }, {
+    "title": "Karma API",
+    "category": "vapor-projects",
+    "description": "Karma tracking system",
+    "homepage": "https://github.com/kdawgwilk/KarmaAPI"
+  }, {
+    "title": "Server Side Swift vs. The Other Guys — 1: Input",
+    "category": "benchmark",
+    "description": "Input benchmark",
+    "homepage": "https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-1-input-ec48d7be37b7#.w932nf7xp"
+  }, {
+    "title": "Server Side Swift vs. The Other Guys — 2: Speed",
+    "category": "benchmark",
+    "description": "Speed benchmark",
+    "homepage": "https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-2-speed-ca65b2f79505#.uk5s8jbui"
+  }, {
+    "title": "Vapor vs. Kitura",
+    "category": "benchmark",
+    "description": "Comparasion Vapor&Kitura",
+    "homepage": "https://medium.com/@qutheory/vapor-vs-kitura-benchmark-8253fe4a3881#.z27088ets"
+  }, {
+    "title": "Benchmarks for the Top Server-Side Swift Frameworks vs. Node.js",
+    "category": "benchmark",
+    "description": "Can Server-Side Swift beat Node.js?",
+    "homepage": "https://medium.com/@rymcol/benchmarks-for-the-top-server-side-swift-frameworks-vs-node-js-24460cfe0beb#.makgstrkk"
+  }, {
+    "title": "Linux (Ubuntu) Benchmarks for Server Side Swift vs Node.js",
+    "category": "benchmark",
+    "description": "Getting benchmarks on Linux, so here you go!",
+    "homepage": "https://medium.com/@rymcol/linux-ubuntu-benchmarks-for-server-side-swift-vs-node-js-db52b9f8270b#.tqb1kresn"
   }]
 }
