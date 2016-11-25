@@ -7,15 +7,15 @@ The README is generated from **contents.json**, please update the JSON file inst
 - **To add to the list:** Submit a pull request
 - **To remove from the list:** Open an issue
 
-To be added to the list, software should meet the following criteria:
+To be added to the list, software should meet some of the following criteria:
 
 - Actively maintained
 - Performs a useful function
+- Can be used to learn Vapor
 - Used by the community
 - Well documented
-- Work with the latest SDK
-- Have at least 15 stars on (GitHub project)
-- Support `Swift 3`
+- Work with the latest Vapor version
+
 
 If an item on the list no longer meets the above criteria, open an issue to have it be removed.
 
@@ -27,12 +27,11 @@ When adding new items, please adhere to the following guidelines:
 
 ```js
 {
-		"title": "Commander",
-		"category": "command-line",
-		"description": "Compose beautiful command line interfaces in Swift.",
-		"homepage": "https://github.com/kylef/Commander",
-		"tags": ["linux"]
-}
+    "title": "Vapor APNS",
+    "category": "libs",
+    "description": "Swift library that allows you to send Apple Push Notifications using HTTP/2 protocol in Linux & macOS. It has support for the brand-new Token Based Authentication but if you need it, the traditional certificate authentication method is ready for you to use as well. Choose whatever you like!",
+    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options"
+  }
 ```
 
 - New categories, or improvements to the existing categorization are welcome (open an issue).

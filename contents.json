@@ -42,7 +42,7 @@
     "title": "Database Providers",
     "id": "db-providers",
     "parent": "libs",
-    "description": "Libs for AI based projects (Machine Learning, Neural Networks etc)."
+    "description": "Database Provides available for Vapor"
   }, {
     "title": "Opensource Vapor projects",
     "id": "vapor-projects",
@@ -70,7 +70,7 @@
     "title": "Vapor APNS",
     "category": "libs",
     "description": "Swift library that allows you to send Apple Push Notifications using HTTP/2 protocol in Linux & macOS. It has support for the brand-new Token Based Authentication but if you need it, the traditional certificate authentication method is ready for you to use as well. Choose whatever you like!",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options"
+    "homepage": "https://github.com/matthijs2704/vapor-apns"
   }, {
     "title": "swift-mode",
     "category": "emacs",

@@ -1,4 +1,4 @@
-<!-- Thanks for contributing to awesome-swift 😊 -->
+<!-- Thanks for contributing to awesome-vapor 🎉 -->
 
 <!-- Reminder: Please update contents.json instead of the README -->
 
@@ -7,7 +7,6 @@
 - **Project Name**:
 - **Project URL**:
 - **Project Description**:
-- **Why it should be added to `awesome-swift`**:
-- [ ] At least 15 stars (GitHub project)
-- [ ] Support `Swift 3`
+- **Why it should be added to `awesome-vapor`**:
+- [ ] Runs using lates Vapor
 - [ ] Updated **contents.json** instead of README
