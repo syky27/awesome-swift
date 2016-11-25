@@ -116,5 +116,10 @@
     "category": "benchmark",
     "description": "Getting benchmarks on Linux, so here you go!",
     "homepage": "https://medium.com/@rymcol/linux-ubuntu-benchmarks-for-server-side-swift-vs-node-js-db52b9f8270b#.tqb1kresn"
+  }, {
+    "title": "bytefish",
+    "category": "vapor-projects",
+    "description": "Simple URL shortener in Swift using Vapor http://bytefish.herokuapp.com/",
+    "homepage": "https://github.com/rosslebeau/bytefish"
   }]
 }
