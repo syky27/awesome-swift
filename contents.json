@@ -121,5 +121,10 @@
     "category": "vapor-projects",
     "description": "Simple URL shortener in Swift using Vapor http://bytefish.herokuapp.com/",
     "homepage": "https://github.com/rosslebeau/bytefish"
+  }, {
+    "title": "Penny Coin",
+    "category": "vapor-projects",
+    "description": "Penny coin is a bot that is used to send and track coins in the Vapor community. She is inspired and based on Chameleon by @iankeen and Camille by @aranasaurus.r",
+    "homepage": "https://github.com/vapor/penny"
   }]
 }
