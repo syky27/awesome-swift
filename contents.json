@@ -1,65 +1,85 @@
 {
-	"title": "Awesome Swift",
-	"header": "# Awesome Swift\n \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)\n\n -->\n\n",
-	"header_contributing": "Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!",
-	"ios_app_link": "https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427",
-	"categories": [{
-		"title": "Guides",
-		"id": "guides",
-		"description": "An awesome list of Swift related guides."
-	}, {
-		"title": "Written",
-		"id": "written-guides",
-		"parent": "guides"
-	}, {
-    "title": "Database",
-    "id": "database-guides",
+  "title": "Awesome Vapor",
+  "header": "# Awesome Vapor\n \n<!-- \n\nPLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)\n\n -->\n\n",
+  "header_contributing": "Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!",
+  "ios_app_link": "",
+  "categories": [{
+    "title": "Guides",
+    "id": "guides",
+    "description": "An awesome list of Vapor related guides."
+  }, {
+    "title": "Written",
+    "id": "written-guides",
     "parent": "guides"
   }, {
-		"title": "Video",
-		"id": "video-guides",
-		"parent": "guides"
-	}, {
-		"title": "Style Guides",
-		"id": "style-guides",
-		"parent": "guides"
-	}, {
-		"title": "Editor Support",
-		"id": "editor-support",
-		"description": "Support for your favorite editors."
-	}, {
-		"title": "Emacs",
-		"id": "emacs",
-		"parent": "editor-support"
-	}, {
-		"title": "Vim",
-		"id": "vim",
-		"parent": "editor-support"
-	}, {
-		"title": "Benchmark",
-		"id": "benchmark"
-	}, {
+    "title": "Database",
+    "id": "database-guides",
+    "parent": "video-guides"
+  }, {
+    "title": "Video",
+    "id": "video-guides",
+    "parent": "guides"
+  }, {
+    "title": "Style Guides",
+    "id": "style-guides",
+    "parent": "guides"
+  }, {
+    "title": "Editor Support",
+    "id": "editor-support",
+    "description": "Support for your favorite editors."
+  }, {
+    "title": "Emacs",
+    "id": "emacs",
+    "parent": "editor-support"
+  }, {
+    "title": "Vim",
+    "id": "vim",
+    "parent": "editor-support"
+  }, {
+    "title": "Benchmark",
+    "id": "benchmark"
+  }, {
     "title": "Database Providers",
     "id": "db-providers",
     "parent": "libs",
     "description": "Libs for AI based projects (Machine Learning, Neural Networks etc)."
   }, {
-		"title": "Demo Apps",
-		"id": "demo-apps",
-		"description": "Check out apps on these projects:"
-	}, {
-		"title": "Misc",
-		"id": "misc",
-		"description": "Miscellaneous Swift related projects"
-	}, {
-		"title": "Libs",
-		"id": "libs",
-		"description": "Here you can find a list of snippets and libs for your Swift projects."
-	}],
-	"projects": [{
-		"title": "Vapor University",
-		"category": "guides",
-		"description": "Official guides provided by Vapor.",
-		"homepage": "http://vapor.university/"
-	}]
+    "title": "Demo Apps",
+    "id": "demo-apps",
+    "description": "Check out apps on these projects:"
+  }, {
+    "title": "Misc",
+    "id": "misc",
+    "description": "Miscellaneous Vapor related projects"
+  }, {
+    "title": "Libs",
+    "id": "libs",
+    "description": "Here you can find a list of snippets and libs for your Vapor projects."
+  }],
+  "projects": [{
+    "title": "Vapor University",
+    "category": "guides",
+    "description": "Official guides provided by Vapor.",
+    "homepage": "http://vapor.university/"
+  }, {
+    "title": "CRUD Database operations",
+    "category": "video-guides",
+    "description": "Ray Wenderlich's screencast",
+    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options"
+  }, , {
+    "title": "Vapor APNS",
+    "category": "libs",
+    "description": "Swift library that allows you to send Apple Push Notifications using HTTP/2 protocol in Linux & macOS. It has support for the brand-new Token Based Authentication but if you need it, the traditional certificate authentication method is ready for you to use as well. Choose whatever you like!",
+    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options"
+  }, {
+    "title": "swift-mode",
+    "category": "emacs",
+    "description": "Emacs Swift support, including partial flycheck error support.",
+    "homepage": "https://github.com/swift-emacs/swift-mode"
+  }, {
+    "title": "swift-vim",
+    "category": "vim",
+    "description": "play Swift with vim editor.",
+    "homepage": "https://github.com/keith/swift.vim"
+  }]
 }
