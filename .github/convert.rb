@@ -99,7 +99,7 @@ def output_table(ios_app_link, num_projects)
 
   o = "| Awesome | Projects | Updated\n| :-: | :-: | :-:\n"
   o << '[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | '
-  o << "![](https://img.shields.io/badge/swift%20projects-#{num_projects}-orange.svg) | "
+  o << "![](https://img.shields.io/badge/vapor%20projects-#{num_projects}-orange.svg) | "
   o << date_display
 
   o
