@@ -19,7 +19,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
-  - [ray Wenderlich](#raywenderlich)
+  - [Ray Wenderlich](#raywenderlich)
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
   - [Vim](#vim)
@@ -32,7 +32,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *An awesome list of Vapor related guides.* 
 * [Vapor University](http://vapor.university/) - Official guides provided by Vapor.
 
-### ray Wenderlich
+### Ray Wenderlich
 [back to top](#readme) 
 
 * [📺 Basic Controllers](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-basic-controllers) - 
