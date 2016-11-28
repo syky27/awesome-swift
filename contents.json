@@ -24,8 +24,8 @@
     "id": "vim",
     "parent": "editor-support"
   }, {
-    "title": "Benchmark",
-    "id": "benchmark"
+    "title": "Benchmarks",
+    "id": "benchmarks"
   }, {
     "title": "Opensource Vapor projects",
     "id": "vapor-projects",
@@ -116,27 +116,27 @@
     "homepage": "https://github.com/kdawgwilk/KarmaAPI"
   }, {
     "title": "Server Side Swift vs. The Other Guys — 1: Input",
-    "category": "benchmark",
+    "category": "benchmarks",
     "description": "Input benchmark",
     "homepage": "https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-1-input-ec48d7be37b7#.w932nf7xp"
   }, {
     "title": "Server Side Swift vs. The Other Guys — 2: Speed",
-    "category": "benchmark",
+    "category": "benchmarks",
     "description": "Speed benchmark",
     "homepage": "https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-2-speed-ca65b2f79505#.uk5s8jbui"
   }, {
     "title": "Vapor vs. Kitura",
-    "category": "benchmark",
+    "category": "benchmarks",
     "description": "Comparasion Vapor&Kitura",
     "homepage": "https://medium.com/@qutheory/vapor-vs-kitura-benchmark-8253fe4a3881#.z27088ets"
   }, {
     "title": "Benchmarks for the Top Server-Side Swift Frameworks vs. Node.js",
-    "category": "benchmark",
+    "category": "benchmarks",
     "description": "Can Server-Side Swift beat Node.js?",
     "homepage": "https://medium.com/@rymcol/benchmarks-for-the-top-server-side-swift-frameworks-vs-node-js-24460cfe0beb#.makgstrkk"
   }, {
     "title": "Linux (Ubuntu) Benchmarks for Server Side Swift vs Node.js",
-    "category": "benchmark",
+    "category": "benchmarks",
     "description": "Getting benchmarks on Linux, so here you go!",
     "homepage": "https://medium.com/@rymcol/linux-ubuntu-benchmarks-for-server-side-swift-vs-node-js-db52b9f8270b#.tqb1kresn"
   }, {
