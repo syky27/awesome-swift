@@ -23,7 +23,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
   - [Vim](#vim)
-- [Benchmark](#benchmark)
+- [Benchmarks](#benchmarks)
 - [Opensource Vapor projects](#vapor-projects)
 - [Misc](#misc)
 - [Libs](#libs)
@@ -57,7 +57,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [swift-vim](https://github.com/keith/swift.vim) - play Swift with vim editor.
 
-## Benchmark
+## Benchmarks
 
 * [Benchmarks for the Top Server-Side Swift Frameworks vs. Node.js](https://medium.com/@rymcol/benchmarks-for-the-top-server-side-swift-frameworks-vs-node-js-24460cfe0beb#.makgstrkk) - Can Server-Side Swift beat Node.js?
 * [Linux (Ubuntu) Benchmarks for Server Side Swift vs Node.js](https://medium.com/@rymcol/linux-ubuntu-benchmarks-for-server-side-swift-vs-node-js-db52b9f8270b#.tqb1kresn) - Getting benchmarks on Linux, so here you go!
