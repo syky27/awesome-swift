@@ -119,7 +119,7 @@
   }, {
     "title": "bytefish",
     "category": "vapor-projects",
-    "description": "Simple URL shortener in Swift using Vapor http://bytefish.herokuapp.com/",
+    "description": "Simple URL shortener in Swift using Vapor `http://bytefish.herokuapp.com/`",
     "homepage": "https://github.com/rosslebeau/bytefish"
   }, {
     "title": "Penny Coin",
