@@ -8,7 +8,7 @@
     "id": "guides",
     "description": "An awesome list of Vapor related guides."
   }, {
-    "title": "ray Wenderlich",
+    "title": "Ray Wenderlich",
     "id": "raywenderlich",
     "parent": "guides"
   }, {
