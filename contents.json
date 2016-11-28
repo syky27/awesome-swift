@@ -8,14 +8,6 @@
     "id": "guides",
     "description": "An awesome list of Vapor related guides."
   }, {
-    "title": "Database",
-    "id": "database-guides",
-    "parent": "guides"
-  }, {
-    "title": "Style Guides",
-    "id": "style-guides",
-    "parent": "guides"
-  }, {
     "title": "Editor Support",
     "id": "editor-support",
     "description": "Support for your favorite editors."
@@ -30,11 +22,6 @@
   }, {
     "title": "Benchmark",
     "id": "benchmark"
-  }, {
-    "title": "Database Providers",
-    "id": "db-providers",
-    "parent": "libs",
-    "description": "Database Provides available for Vapor"
   }, {
     "title": "Opensource Vapor projects",
     "id": "vapor-projects",
