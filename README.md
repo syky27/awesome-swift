@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-21-orange.svg) | November 28, 2016
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-22-orange.svg) | November 28, 2016
 
 ### Contributing
 
@@ -77,4 +77,5 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Libs
 *Here you can find a list of snippets and libs for your Vapor projects.* 
+* [Jobs](https://github.com/BrettRToomey/Jobs) - A job system for Swift backends.
 * [Vapor APNS](https://github.com/matthijs2704/vapor-apns) - Swift library that allows you to send Apple Push Notifications using HTTP/2 protocol in Linux & macOS. It has support for the brand-new Token Based Authentication but if you need it, the traditional certificate authentication method is ready for you to use as well. Choose whatever you like!
