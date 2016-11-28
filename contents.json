@@ -47,42 +47,34 @@
   }, {
     "title": "📺 Getting Started",
     "category": "raywenderlich",
-    "description": "",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-getting-started"
   }, {
     "title": "📺 Templating with Leaf",
     "category": "raywenderlich",
-    "description": "",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-templating-with-leaf"
   }, {
     "title": "📺 Configuring a Database",
     "category": "raywenderlich",
-    "description": "",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-configuring-a-database"
   }, {
     "title": "📺 Persisting Models",
     "category": "raywenderlich",
-    "description": "",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-persisting-models"
   }, {
     "title": "📺 CRUD Database operations",
     "category": "raywenderlich",
-    "description": "",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options"
   }, {
     "title": "📺 Deploying to Heroku with PostgreSQL",
     "category": "raywenderlich",
-    "description": "",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-deploying-to-heroku-with-postgresql"
   }, {
     "title": "📺 Basic Controllers",
     "category": "raywenderlich",
-    "description": "",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-basic-controllers"
   }, {
     "title": "📺 RESTful Controllers",
     "category": "raywenderlich",
-    "description": "",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-restful-controllers"
   }, {
     "title": "Vapor APNS",
