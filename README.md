@@ -19,10 +19,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
+  - [Database](#database-guides)
   - [Style Guides](#style-guides)
-  - [Video](#video-guides)
-    - [Database](#database-guides)
-  - [Written](#written-guides)
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
   - [Vim](#vim)
@@ -36,20 +34,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *An awesome list of Vapor related guides.* 
 * [Vapor University](http://vapor.university/) - Official guides provided by Vapor.
 
+### Database
+[back to top](#readme) 
+
+
 ### Style Guides
-[back to top](#readme) 
-
-
-### Video
-[back to top](#readme) 
-
-* [CRUD Database operations](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options) - Ray Wenderlich's screencast
-
-#### Database
-[back to top](#readme) 
-
-
-### Written
 [back to top](#readme) 
 
 
