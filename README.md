@@ -19,8 +19,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
-  - [Database](#database-guides)
-  - [Style Guides](#style-guides)
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
   - [Vim](#vim)
@@ -28,19 +26,10 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 - [Opensource Vapor projects](#vapor-projects)
 - [Misc](#misc)
 - [Libs](#libs)
-  - [Database Providers](#db-providers)
 
 ## Guides
 *An awesome list of Vapor related guides.* 
 * [Vapor University](http://vapor.university/) - Official guides provided by Vapor.
-
-### Database
-[back to top](#readme) 
-
-
-### Style Guides
-[back to top](#readme) 
-
 
 ## Editor Support
 *Support for your favorite editors.* 
@@ -76,7 +65,3 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Libs
 *Here you can find a list of snippets and libs for your Vapor projects.* 
 * [Vapor APNS](https://github.com/matthijs2704/vapor-apns) - Swift library that allows you to send Apple Push Notifications using HTTP/2 protocol in Linux & macOS. It has support for the brand-new Token Based Authentication but if you need it, the traditional certificate authentication method is ready for you to use as well. Choose whatever you like!
-
-### Database Providers
-*Database Provides available for Vapor* [back to top](#readme) 
-
