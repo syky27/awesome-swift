@@ -24,6 +24,7 @@ When adding new items, please adhere to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
 - Use the existing format in the JSON file
+- Incase the guide you are adding is video please use TV emoji like this: "title": "📺 Deploying to heroku"
 
 ```js
 {

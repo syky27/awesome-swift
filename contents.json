@@ -8,16 +8,8 @@
     "id": "guides",
     "description": "An awesome list of Vapor related guides."
   }, {
-    "title": "Written",
-    "id": "written-guides",
-    "parent": "guides"
-  }, {
     "title": "Database",
     "id": "database-guides",
-    "parent": "video-guides"
-  }, {
-    "title": "Video",
-    "id": "video-guides",
     "parent": "guides"
   }, {
     "title": "Style Guides",
