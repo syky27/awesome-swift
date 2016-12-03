@@ -81,6 +81,10 @@
     "category": "raywenderlich",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-beautifying-pages-with-skeleton"
   }, {
+    "title": "📺 Making a Web App",
+    "category": "raywenderlich",
+    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-making-a-web-app"
+  }, {
     "title": "Vapor APNS",
     "category": "libs",
     "description": "Swift library that allows you to send Apple Push Notifications using HTTP/2 protocol in Linux & macOS. It has support for the brand-new Token Based Authentication but if you need it, the traditional certificate authentication method is ready for you to use as well. Choose whatever you like!",
