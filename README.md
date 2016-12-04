@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-22-orange.svg) | November 28, 2016
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-24-orange.svg) | December 04, 2016
 
 ### Contributing
 
@@ -36,10 +36,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [📺 Basic Controllers](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-basic-controllers) - 
+* [📺 Beautifying Pages with Skeleton](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-beautifying-pages-with-skeleton) - 
 * [📺 Configuring a Database](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-configuring-a-database) - 
 * [📺 CRUD Database operations](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options) - 
 * [📺 Deploying to Heroku with PostgreSQL](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-deploying-to-heroku-with-postgresql) - 
 * [📺 Getting Started](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-getting-started) - 
+* [📺 Making a Web App](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-making-a-web-app) - 
 * [📺 Persisting Models](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-persisting-models) - 
 * [📺 RESTful Controllers](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-restful-controllers) - 
 * [📺 Templating with Leaf](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-templating-with-leaf) - 
