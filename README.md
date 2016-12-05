@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-24-orange.svg) | December 04, 2016
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-26-orange.svg) | December 05, 2016
 
 ### Contributing
 
@@ -19,6 +19,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
+  - [Nodes](#nodes)
   - [Ray Wenderlich](#raywenderlich)
 - [Editor Support](#editor-support)
   - [Emacs](#emacs)
@@ -31,6 +32,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Guides
 *An awesome list of Vapor related guides.* 
 * [Vapor University](http://vapor.university/) - Official guides provided by Vapor.
+
+### Nodes
+[back to top](#readme) 
+
+* [6 simple steps to get your first Vapor JSON response](https://engineering.nodesagency.com/articles/Vapor/6-simple-steps-to-setup-vapor/) - 
+* [Adding MySQL to your Vapor project](https://engineering.nodesagency.com/articles/Vapor/Adding-MySQL-to-your-Vapor-project/) - 
 
 ### Ray Wenderlich
 [back to top](#readme) 
