@@ -12,6 +12,10 @@
     "id": "raywenderlich",
     "parent": "guides"
   }, {
+    "title": "Nodes",
+    "id": "nodes",
+    "parent": "guides"
+  }, {
     "title": "Editor Support",
     "id": "editor-support",
     "description": "Support for your favorite editors."
@@ -84,6 +88,14 @@
     "title": "📺 Making a Web App",
     "category": "raywenderlich",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-making-a-web-app"
+  }, {
+    "title": "6 simple steps to get your first Vapor JSON response",
+    "category": "nodes",
+    "homepage": "https://engineering.nodesagency.com/articles/Vapor/6-simple-steps-to-setup-vapor/"
+  }, {
+    "title": "Adding MySQL to your Vapor project",
+    "category": "nodes",
+    "homepage": "https://engineering.nodesagency.com/articles/Vapor/Adding-MySQL-to-your-Vapor-project/"
   }, {
     "title": "Vapor APNS",
     "category": "libs",
