@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-26-orange.svg) | December 05, 2016
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-27-orange.svg) | December 07, 2016
 
 ### Contributing
 
@@ -19,6 +19,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
+  - [Others](#guides-others)
   - [Nodes](#nodes)
   - [Ray Wenderlich](#raywenderlich)
 - [Editor Support](#editor-support)
@@ -32,6 +33,11 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Guides
 *An awesome list of Vapor related guides.* 
 * [Vapor University](http://vapor.university/) - Official guides provided by Vapor.
+
+### Others
+[back to top](#readme) 
+
+* [Server side swift with Vapor](https://www.bignerdranch.com/blog/server-side-swift-with-vapor/) - Big Nerd Ranch, starting project, creating model, using database, heroku deploy
 
 ### Nodes
 [back to top](#readme) 
