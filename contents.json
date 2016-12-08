@@ -93,6 +93,10 @@
     "category": "raywenderlich",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-making-a-web-app"
   }, {
+    "title": "📺 Basic Validation”,
+    "category": "raywenderlich",
+    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-basic-validation"
+  }, {
     "title": "6 simple steps to get your first Vapor JSON response",
     "category": "nodes",
     "homepage": "https://engineering.nodesagency.com/articles/Vapor/6-simple-steps-to-setup-vapor/"
