@@ -111,6 +111,11 @@
     "category": "guides-others",
     "homepage": "https://www.youtube.com/watch?v=yD7hNSl276s"
   }, {
+    "title": "Unit Testing Vapor (Toolbox v.1.0.1) Projects",
+    "description":"A quick tutorial to add Unit Testing to Vapor projects by Tullio Sebastiani",
+    "category": "guides-others",
+    "homepage": "https://medium.com/@tullio.sebastiani/unit-testing-vapor-toolbox-v-1-0-1-projects-c59a056c3b9b#.hwc1z69zw"
+  }, {
     "title": "Adding MySQL to your Vapor project",
     "category": "nodes",
     "homepage": "https://engineering.nodesagency.com/articles/Vapor/Adding-MySQL-to-your-Vapor-project/"
