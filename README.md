@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-29-orange.svg) | December 15, 2016
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-31-orange.svg) | December 15, 2016
 
 ### Contributing
 
@@ -38,6 +38,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Server side swift with Vapor](https://www.bignerdranch.com/blog/server-side-swift-with-vapor/) - Big Nerd Ranch, starting project, creating model, using database, heroku deploy
+* [Unit Testing Vapor (Toolbox v.1.0.1) Projects](https://medium.com/@tullio.sebastiani/unit-testing-vapor-toolbox-v-1-0-1-projects-c59a056c3b9b#.hwc1z69zw) - A quick tutorial to add Unit Testing to Vapor projects by Tullio Sebastiani
 * [📺 Getting Started with Vapor: A Web Framework for Swift](https://www.youtube.com/watch?v=yD7hNSl276s) - In this quick tutorial, you’ll learn the basics of using Vapor to build web applications using Swift.
 
 ### Nodes
@@ -54,6 +55,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [📺 Beautifying Pages with Skeleton](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-beautifying-pages-with-skeleton) - 
 * [📺 Configuring a Database](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-configuring-a-database) - 
 * [📺 CRUD Database operations](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options) - 
+* [📺 Custom Validation](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-custom-validation) - 
 * [📺 Deploying to Heroku with PostgreSQL](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-deploying-to-heroku-with-postgresql) - 
 * [📺 Getting Started](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-getting-started) - 
 * [📺 Making a Web App](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-making-a-web-app) - 
