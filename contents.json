@@ -93,6 +93,10 @@
     "category": "raywenderlich",
     "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-making-a-web-app"
   }, {
+    "title": "📺 Basic Validation",
+    "category": "raywenderlich",
+    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-basic-validation"
+  }, {
     "title": "6 simple steps to get your first Vapor JSON response",
     "category": "nodes",
     "homepage": "https://engineering.nodesagency.com/articles/Vapor/6-simple-steps-to-setup-vapor/"
@@ -101,6 +105,11 @@
     "description":"Big Nerd Ranch, starting project, creating model, using database, heroku deploy",
     "category": "guides-others",
     "homepage": "https://www.bignerdranch.com/blog/server-side-swift-with-vapor/"
+  }, {
+    "title": "📺 Getting Started with Vapor: A Web Framework for Swift",
+    "description":"In this quick tutorial, you’ll learn the basics of using Vapor to build web applications using Swift.",
+    "category": "guides-others",
+    "homepage": "https://www.youtube.com/watch?v=yD7hNSl276s"
   }, {
     "title": "Adding MySQL to your Vapor project",
     "category": "nodes",
