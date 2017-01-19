@@ -10,7 +10,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Projects | Updated
 | :-: | :-: | :-:
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-32-orange.svg) | December 23, 2016
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | ![](https://img.shields.io/badge/vapor%20projects-33-orange.svg) | January 19, 2017
 
 ### Contributing
 
@@ -62,6 +62,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [📺 Parent-Child Relations](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-parent-child-relations) - 
 * [📺 Persisting Models](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-persisting-models) - 
 * [📺 RESTful Controllers](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-restful-controllers) - 
+* [📺 Sibling Relations](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-sibling-relations) - 
 * [📺 Templating with Leaf](https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-templating-with-leaf) - 
 
 ## Editor Support
