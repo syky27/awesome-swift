@@ -48,6 +48,11 @@
     "description": "Here you can find a list of snippets and libs for your Vapor projects."
   }],
   "projects": [{
+    "title": "Vapor Nation",
+    "category": "Misc",
+    "description": "Weekly Vapor newsletter, updated every Monday",
+    "homepage": "https://twof.github.io/VaporNation/"
+  }, {
     "title": "Vapor University",
     "category": "guides",
     "description": "Official guides provided by Vapor.",
