@@ -38,6 +38,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Server side swift with Vapor](https://www.bignerdranch.com/blog/server-side-swift-with-vapor/) - Big Nerd Ranch, starting project, creating model, using database, heroku deploy
+* [Vapor 3 Testing Toolbox](https://github.com/LiveUI/VaporTestTools) - Library to help with Unit Testing Vapor 3 using a set of helper methods. Includes a tutorial.
 * [Unit Testing Vapor (Toolbox v.1.0.1) Projects](https://medium.com/@tullio.sebastiani/unit-testing-vapor-toolbox-v-1-0-1-projects-c59a056c3b9b#.hwc1z69zw) - A quick tutorial to add Unit Testing to Vapor projects by Tullio Sebastiani
 * [📺 Getting Started with Vapor: A Web Framework for Swift](https://www.youtube.com/watch?v=yD7hNSl276s) - In this quick tutorial, you’ll learn the basics of using Vapor to build web applications using Swift.
 
