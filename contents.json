@@ -55,35 +55,35 @@
   }, {
     "title": "📺 Getting Started",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-getting-started"
+    "homepage": "https://videos.raywenderlich.com/screencasts/509-server-side-swift-with-vapor-getting-started"
   }, {
     "title": "📺 Templating with Leaf",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-templating-with-leaf"
+    "homepage": "https://videos.raywenderlich.com/screencasts/511-server-side-swift-with-vapor-templating-with-leaf"
   }, {
     "title": "📺 Configuring a Database",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-configuring-a-database"
+    "homepage": "https://videos.raywenderlich.com/screencasts/512-server-side-swift-with-vapor-configuring-a-database"
   }, {
     "title": "📺 Persisting Models",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-persisting-models"
+    "homepage": "https://videos.raywenderlich.com/screencasts/513-server-side-swift-with-vapor-persisting-models"
   }, {
     "title": "📺 CRUD Database operations",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-crud-database-options"
+    "homepage": "https://videos.raywenderlich.com/screencasts/515-server-side-swift-with-vapor-crud-database-options"
   }, {
     "title": "📺 Deploying to Heroku with PostgreSQL",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-deploying-to-heroku-with-postgresql"
+    "homepage": "https://videos.raywenderlich.com/screencasts/516-server-side-swift-with-vapor-deploying-to-heroku-with-postgresql"
   }, {
     "title": "📺 Basic Controllers",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-basic-controllers"
+    "homepage": "https://videos.raywenderlich.com/screencasts/533-server-side-swift-with-vapor-basic-controllers"
   }, {
     "title": "📺 RESTful Controllers",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-restful-controllers"
+    "homepage": "https://videos.raywenderlich.com/screencasts/537-server-side-swift-with-vapor-restful-controllers"
   }, {
     "title": "📺 Beautifying Pages with Skeleton",
     "category": "raywenderlich",
@@ -91,23 +91,31 @@
   }, {
     "title": "📺 Making a Web App",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-making-a-web-app"
+    "homepage": "https://videos.raywenderlich.com/screencasts/539-server-side-swift-with-vapor-making-a-web-app"
   }, {
     "title": "📺 Basic Validation",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-basic-validation"
+    "homepage": "https://videos.raywenderlich.com/screencasts/545-server-side-swift-with-vapor-basic-validation"
   }, {
     "title": "📺 Custom Validation",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-custom-validation"
+    "homepage": "https://videos.raywenderlich.com/screencasts/546-server-side-swift-with-vapor-custom-validation"
   }, {
     "title": "📺 Parent-Child Relations",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-parent-child-relations"
+    "homepage": "https://videos.raywenderlich.com/screencasts/560-server-side-swift-with-vapor-parent-child-relations"
   }, {
     "title": "📺 Sibling Relations",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-sibling-relations"
+    "homepage": "https://videos.raywenderlich.com/screencasts/598-server-side-swift-with-vapor-sibling-relations"
+  }, {
+    "title": "📺 Registering users over SSL",
+    "category": "raywenderlich",
+    "homepage": "https://videos.raywenderlich.com/screencasts/624-server-side-swift-with-vapor-registering-users-over-ssl"
+  }, {
+    "title": "📺 Authentication with Turnstile",
+    "category": "raywenderlich",
+    "homepage": "https://videos.raywenderlich.com/screencasts/637-server-side-swift-with-vapor-authentication-with-turnstile"
   }, {
     "title": "6 simple steps to get your first Vapor JSON response",
     "category": "nodes",
