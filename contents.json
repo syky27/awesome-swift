@@ -87,7 +87,7 @@
   }, {
     "title": "📺 Beautifying Pages with Skeleton",
     "category": "raywenderlich",
-    "homepage": "https://videos.raywenderlich.com/screencasts/server-side-swift-with-vapor-beautifying-pages-with-skeleton"
+    "homepage": "https://videos.raywenderlich.com/screencasts/538-server-side-swift-with-vapor-beautifying-pages-with-skeleton"
   }, {
     "title": "📺 Making a Web App",
     "category": "raywenderlich",
@@ -173,17 +173,17 @@
     "title": "Server Side Swift vs. The Other Guys — 1: Input",
     "category": "benchmarks",
     "description": "Input benchmark",
-    "homepage": "https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-1-input-ec48d7be37b7#.w932nf7xp"
+    "homepage": "https://medium.com/@codevapor/server-side-swift-vs-the-other-guys-1-input-ec48d7be37b7"
   }, {
     "title": "Server Side Swift vs. The Other Guys — 2: Speed",
     "category": "benchmarks",
     "description": "Speed benchmark",
-    "homepage": "https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-2-speed-ca65b2f79505#.uk5s8jbui"
+    "homepage": "https://medium.com/@codevapor/server-side-swift-vs-the-other-guys-2-speed-ca65b2f79505"
   }, {
     "title": "Vapor vs. Kitura",
     "category": "benchmarks",
     "description": "Comparasion Vapor&Kitura",
-    "homepage": "https://medium.com/@qutheory/vapor-vs-kitura-benchmark-8253fe4a3881#.z27088ets"
+    "homepage": "https://medium.com/@codevapor/vapor-vs-kitura-benchmark-8253fe4a3881"
   }, {
     "title": "Benchmarks for the Top Server-Side Swift Frameworks vs. Node.js",
     "category": "benchmarks",
@@ -203,6 +203,6 @@
     "title": "Penny Coin",
     "category": "vapor-projects",
     "description": "Penny coin is a bot that is used to send and track coins in the Vapor community. She is inspired and based on Chameleon by @iankeen and Camille by @aranasaurus.r",
-    "homepage": "https://github.com/vapor/penny"
+    "homepage": "https://github.com/vapor-community/penny"
   }]
 }
